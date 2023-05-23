@@ -1,9 +1,9 @@
 ### Hi, I'm José Goulart
 
 [![Whatszapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)](coloar item aqui)
+)](https://wa.me/5551995346316)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](coloar item aqui)
+)](https://www.instagram.com/gouulartj/)
 
 ![José Goulart GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseGoullart&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGoullart&hide_progress=false)](https://github.com/JoseGoullart/github-readme-stats)
